@@ -6,3 +6,4 @@
 
 
 An interactive general purpose personal assistant LLM Chatbot using HuggingFace Transformer model based on IBM WatsonX 
+( In progress, to be updated soon)
